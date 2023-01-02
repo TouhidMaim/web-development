@@ -1,0 +1,27 @@
+*{font-family: sans-serif}
+.html{
+    background-color: #fff04f;
+}
+div p{
+    font-size: 20px;
+    background-color: #ff004f;
+    border: 5px solid #000;
+    height: 300px;
+    border-radius: 10px;
+    padding: 250px 85px 0;
+    margin: 30px auto;
+    background-image: url(images/319019400_658157395788541_8260630870385991358_n.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 500px;
+    text-align: justify;
+    box-shadow: 10px 20px 30px;
+}
+
+
+
+
+
+
+
+
