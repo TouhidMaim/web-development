@@ -23,7 +23,18 @@ div p{
     height: fit-content;
     background-color: #fff04f;
 }
-
+a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #fff;
+    background-color: #ff004f;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+}
 
 
 
