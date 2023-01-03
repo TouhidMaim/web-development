@@ -17,7 +17,12 @@ div p{
     text-align: justify;
     box-shadow: 10px 20px 30px;
 }
-
+.love{
+    color: red;
+    width: fit-content;
+    height: fit-content;
+    background-color: #fff04f;
+}
 
 
 
